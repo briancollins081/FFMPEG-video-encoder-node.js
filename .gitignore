@@ -1,0 +1,6 @@
+node_modules/
+uploads/**/*.mkv
+uploads/**/*.mp4
+uploads/**/*.webm
+*.log
+package-lock.json
